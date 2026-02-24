@@ -59,7 +59,7 @@ To build intelligent, data-driven solutions and grow as an AI / Data Science pro
 ---
 
 ## 📫 Connect With Me
-📧 your.email@example.com  
-💼 https://linkedin.com/in/yourprofile  
+📧 dhabaleshreyali@gmail.com 
+💼 www.linkedin.com/in/shreyali-dhabale-263135338/
 
 ⭐ Thanks for visiting my profile!
