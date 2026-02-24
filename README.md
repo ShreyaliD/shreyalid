@@ -25,16 +25,25 @@ Real-time object detection and tracking using computer vision techniques.
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+---
 
 ### 🤖 AI & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
 
+---
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=databricks)
+
+---
+
 ### ⚙ Tools
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
 ---
 
 ## 📊 GitHub Analytics
